@@ -1,7 +1,7 @@
 ## Kamil Mosoń
 
 Financial & digital regulation lawyer.
-I write code to keep up with what's coming.
+I write code (or rather, I have my code being written) to keep up with what's coming.
 
 ### What I've built (selected)
 - **[MiCA Register](https://www.micaregister.com/)** — a searchable interface over ESMA MiCA registers.
