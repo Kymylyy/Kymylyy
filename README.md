@@ -11,5 +11,6 @@ I write code to keep up with what's coming.
 - **End-to-end Polish legislative tracking** — tracks relevant acts from **KPRM agenda** through the full process to enactment (MVP works; still refining).
 
 Some other tools and experiments sit in the repos below.
+Some were developed as part of my professional engagements and are not currently exposed publicly.
 
 I write about law × tech on [LinkedIn](https://www.linkedin.com/in/kamilmoson/).
